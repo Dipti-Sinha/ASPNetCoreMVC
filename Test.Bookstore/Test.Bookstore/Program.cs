@@ -11,6 +11,7 @@ namespace Test.Bookstore
 {
     public class Program
     {
+        //"YAHOO!!" for New Item in Boards
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
