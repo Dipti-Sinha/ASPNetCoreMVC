@@ -11,6 +11,7 @@ namespace Test.Bookstore
 {
     public class Program
     {
+        //Update AB#1: retrying
         //Update 2 :"YAHOO!!" for New Item in Boards
         public static void Main(string[] args)
         {
